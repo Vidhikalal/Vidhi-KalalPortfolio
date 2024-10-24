@@ -1,15 +1,17 @@
+'use client'
+
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
 import { Github, Linkedin, Mail, Phone } from "lucide-react"
 
-export default function VidhiKalalPortfolio() {
+export function Portfolio() {
   return (
     <div className="min-h-screen bg-gray-100 dark:bg-gray-900">
       <header className="bg-white dark:bg-gray-800 shadow">
         <div className="container mx-auto px-6 py-4">
           <h1 className="text-3xl font-bold text-gray-800 dark:text-white">Vidhi Kalal</h1>
-          <p className="text-gray-600 dark:text-gray-300">Computer Science Student | Software Engineer</p>
+          <p className="text-gray-600 dark:text-gray-300">Computer Science Student </p>
         </div>
       </header>
 
