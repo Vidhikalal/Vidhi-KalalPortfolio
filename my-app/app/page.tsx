@@ -18,7 +18,7 @@ export default function VidhiKalalPortfolio() {
             Vidhi Kalal
           </h1>
           <p className="text-gray-600 dark:text-gray-300">
-            Computer Science Student | Software Engineer
+            Computer Science Student
           </p>
         </div>
       </header>
