@@ -1,4 +1,4 @@
-Working![https://github.com/Vidhikalal/Vidhi-KalalPortfolio/blob/main/giphy.gif]
+![Working](https://raw.githubusercontent.com/Vidhikalal/VidhiKalal/master/gif.gif)
 # Portfolio Website
 
 This is my personal portfolio website built using [Next.js](https://nextjs.org/) and deployed on [Vercel](https://vercel.com/). It showcases my projects, skills, and experience.
